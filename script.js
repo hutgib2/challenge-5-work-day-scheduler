@@ -6,7 +6,6 @@ $(document).ready(function(){
   var now = dayjs();
   console.log(now.get('hour'));
 
-  $('#currentDay').html(now.format('dddd, MMMM DD YYYY'));
 
 
   // TODO: Add a listener for click events on the save button. This code should
@@ -51,4 +50,7 @@ $(document).ready(function(){
 
 
   // TODO: Add code to display the current date in the header of the page.
+  
+  $('#currentDay').html(now.format('dddd, MMMM DD YYYY'));
+  
 });
