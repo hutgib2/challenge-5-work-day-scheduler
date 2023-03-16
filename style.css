@@ -58,3 +58,12 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+#log-messages {
+  border-top: #000000 16px solid;
+  margin-bottom: 1em;
+}
+
+#log-messages span{
+  color: red;
+}
