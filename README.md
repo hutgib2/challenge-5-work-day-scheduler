@@ -2,7 +2,7 @@
 
 ## Description
 
-Challenge 4 Code Quiz is a web application to help me understand coding and improve my coding skills. The application was built from scratch using JavaScript and uses a range of functional buttons and uses data structures to store high scores.
+Challenge 5 Work Day Sccheduele is a web application to help me understand coding and improve my coding skills. The application was built from scratch using JavaScript and uses a range of functional buttons and uses data structures to store descriptions to local storage.
 
 ## Learning Objectives
 
@@ -15,7 +15,7 @@ The primary learning objectives of this project are to:
 
 ## Screenshots and Links
 
-Below is a screenshot of the Challenge 4 Code Quiz application's main page:
+Below is a screenshot of the Challenge 5 Work Day Scheduele application's main page:
 
 ![screenshot of application](/images/app.PNG  "application main page")
 
@@ -27,13 +27,13 @@ https://hutgib2.github.io/challenge-5-work-day-scheduler/
 
 ## Installation
 
-To install the Challenge 4 Code Quiz application on your computer, you can clone the GitHub repository using the following command:
+To install the Challenge 5 Work Day Scheduele application on your computer, you can clone the GitHub repository using the following command:
 
 `git clone git@github.com:hutgib2/challenge-5-work-day-scheduler.git` 
 
 ## Usage
 
-The Challenge 4 Code Quiz application is an example of how to create a timed quiz using JavaScript.
+The Challenge 5 Work Day Schedueler application is an example of how to create a timed quiz using JavaScript.
 
 ## License
 
